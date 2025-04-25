@@ -1,0 +1,2 @@
+At begin :
+node: 5093  Edge: 24743
